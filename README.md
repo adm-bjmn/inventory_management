@@ -4,6 +4,8 @@
 This inventory management system is a simple stand alone program that allows a user to read, update and delete entries in a file containing details of items.
 For this example the program finds its form as a system for an imaginary footware outlet, however I can be easily adapted to provide useful output for any data.
 
+### To run this file in Docker play ground open an instance and type: docker run -i admbjmn/inventory_management - The files is easier to interpret in VS code and will provide you with more functionality - ie: viewing generated files.
+
 ## __Key Components__
 
 __Classes__
