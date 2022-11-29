@@ -114,4 +114,4 @@ EG:
 
 Once the user has finished the program can be closed from the main menu by typing exit.
 
-_This program was made by adm.bjmn as part of a coding course provided by Hyperion Dev._
+_This program was made by adm.bjmn.
